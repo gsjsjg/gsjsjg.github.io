@@ -32,7 +32,7 @@
 邮箱：gsjsjg@wo.cn <br/>
 ![](gongyi.png)
 ![](liucheng.png)
-![](gongwei.png)
+![](gongwei.jpg)
 ![](LOGO_185.jpg)
 ![](yin.png)
 <br/>宁波浸渗 浸渗加工 浸渗处理 宁波锢实浸渗加工有限公司
