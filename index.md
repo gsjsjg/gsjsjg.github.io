@@ -31,9 +31,9 @@
 电话：18519195469<br/>
 邮箱：gsjsjg@wo.cn 
 <br/>
-[工厂地址](https://ditu.amap.com/place/B0FFJYHCRA "点击查看工厂地址")
+[点击查看工厂地址](https://ditu.amap.com/place/B0FFJYHCRA "点击查看工厂地址")
 <br/>
-[工艺流程](gongyi.png "点击查看工艺流程")
+[点击查看工艺流程](gongyi.png "点击查看工艺流程")
 <br/>
 ![](liucheng.png)
 ![](gongwei.jpg)
