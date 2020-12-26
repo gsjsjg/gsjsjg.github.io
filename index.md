@@ -29,10 +29,12 @@
 地址：宁波市北仑区大碶璎珞188号2幢1号<br/>
 邮编：315806 <br/>
 电话：18519195469<br/>
-邮箱：gsjsjg@wo.cn <br/>
-[工厂地址](https://ditu.amap.com/place/B0FFJYHCRA "工厂地址")
+邮箱：gsjsjg@wo.cn 
 <br/>
-![](gongyi.png)
+[工厂地址](https://ditu.amap.com/place/B0FFJYHCRA "点击查看工厂地址")
+<br/>
+[工艺流程](gongyi.png "点击查看工艺流程")
+<br/>
 ![](liucheng.png)
 ![](gongwei.jpg)
 ![](LOGO_185.jpg)
